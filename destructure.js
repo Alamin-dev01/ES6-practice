@@ -1,0 +1,1 @@
+const person={name:'Alamin',age:21,job}
